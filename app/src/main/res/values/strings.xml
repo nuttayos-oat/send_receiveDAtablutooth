@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">send_receiveDAtablutooth</string>
+    <string name="none_paired">no devices have been paired</string>
+</resources>
